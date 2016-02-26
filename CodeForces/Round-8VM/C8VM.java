@@ -2,6 +2,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
+// Kyle Dencker
+// Date
+
 
 public class C8VM {
 	static int r,g,b;
