@@ -1,7 +1,16 @@
 import java.util.Scanner;
 
-
-public class C8CMC {
+/*******************
+ * This was accepted during the contest
+ * However it got wrong answer on the 
+ * final checks.  
+ * 
+ * Will upload with a better solution in
+ * the future
+ * 
+ * Kyle Dencker
+ ******************/
+public class C8VMC {
 	public static void main(String[] arg) {
 		Scanner scan = new Scanner(System.in);
 		int two = scan.nextInt();
