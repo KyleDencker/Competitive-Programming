@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+//Sharon Barak
+//Code for UCF High School Programming Tournament 2014
+//Problem: Bar
+
 public class bar {
 
 	public static void main(String[] args) {
