@@ -30,7 +30,7 @@ public class chief {
 				}
 				else{
 					ballVolume += Blocks.get(i).vol;
-					r = Math.sqrt(4*ballVolume/Math.PI*3);
+					r = Math.sqrt(3*ballVolume/Math.PI*4);
 				}
 			}
 			if(possible) System.out.println("Problem Set #"+i+": It's going to be a good set!");
