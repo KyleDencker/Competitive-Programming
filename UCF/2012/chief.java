@@ -2,6 +2,10 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
+//Sharon Barak
+//Code for UCF High School Programming Tournament 2012
+//Problem: It's Good to be the Chief!
+
 public class chief {
 
 	public static void main(String[] args) {
