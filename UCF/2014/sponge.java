@@ -1,6 +1,10 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
+//Sharon Barak
+//Code for UCF High School Programming Tournament 2014
+//Problem: Sponge
+
 public class sponge {
 
 	public static void main(String[] args) {
