@@ -1,6 +1,10 @@
 import java.io.*;
 import java.text.DecimalFormat;
 
+//Sharon Barak
+//Code for UCF High School Programming Tournament 2014
+//Problem: Tingling
+
 public class tingling {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
