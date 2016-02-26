@@ -14,6 +14,8 @@ public class batarang {
 		for(int i = 1; i <= t; i++){
 			ArrayList<Point> villians = new ArrayList<Point>();
 			int n = scan.nextInt();
+			//the number of boomerangs needed should be equal to
+			//the number of villians in the worst case scenario
 			int count = n;
 			for(int j = 0; j < n; j++){
 				villians.add(new Point(scan.nextInt(), scan.nextInt()));
