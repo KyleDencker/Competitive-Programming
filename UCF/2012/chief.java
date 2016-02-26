@@ -23,7 +23,7 @@ public class chief {
 			Collections.sort(Blocks);
 			boolean possible = true;
 			for(int j = 0; j < n; j++){
-				if(r <= Blocks.get(i).h){
+				if(r <= (Blocks.get(i).h/2)){
 					System.out.println("Problem Set #"+i+": We need to rebuild this!");
 					possible = false;
 					break;
