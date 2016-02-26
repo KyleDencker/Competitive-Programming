@@ -7,8 +7,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.StringTokenizer;
 
+// Kyle Dencker
 
-public class C401A {
+public class C341A {
 	public static void main(String[] args) throws IOException {
 		BufferedReader stdin = new BufferedReader(new InputStreamReader(System.in));
 		PrintWriter out = new PrintWriter(System.out);
