@@ -2,8 +2,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 //Sharon Barak
-//Code for UCF High School Programming Tournament 2012
-//Problem: Zzzyyx or I’m Out
+//Code for UCF High School Programming Tournament 2013
+//Problem: Zzzyyx or Iâ€™m Out
 
 public class zzzyyx {
 
