@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class find {
 
 	//Sharon Barak
-	//Code for UCF High School Programming Tournament 2014
+	//Code for UCF High School Programming Tournament 2013
 	//Problem: Find X
 
 	public static void main(String[] args) {
