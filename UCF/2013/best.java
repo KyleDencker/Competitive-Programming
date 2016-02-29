@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 
 //Sharon Barak
-//Code for UCF High School Programming Tournament 2012
+//Code for UCF High School Programming Tournament 2013
 //Problem: Battle of the Best 
 
 public class best {
