@@ -2,6 +2,10 @@ import java.util.Scanner;
 
 public class find {
 
+	//Sharon Barak
+	//Code for UCF High School Programming Tournament 2014
+	//Problem: Find X
+
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int t = scan.nextInt();
