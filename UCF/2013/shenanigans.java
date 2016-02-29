@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //Sharon Barak
-//Code for UCF High School Programming Tournament 2012
+//Code for UCF High School Programming Tournament 2013
 //Problem: Rock Paper Shenanigans
 
 public class shenanigans {
