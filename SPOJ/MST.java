@@ -1,3 +1,6 @@
+// Brett Fazio
+// SPOJ Problem : MST
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -68,7 +71,7 @@ class MSTEdge implements Comparable<MSTEdge> {
 	@Override
 	public int compareTo(MSTEdge arg0) {
 		// TODO Auto-generated method stub
-		return 0;
+		return weight - arg0.weight;
 	}
 	
 	
