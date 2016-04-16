@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.math.BigInteger;
 
-public class CF347A {
+public class A {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader bu = new BufferedReader(new InputStreamReader(System.in));
