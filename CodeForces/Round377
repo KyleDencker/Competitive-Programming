@@ -1,1 +1,16 @@
 
+import java.util.Scanner;
+public class prob732a {
+public static void main (String[]arg){
+Scanner scan = new Scanner(System.in);
+int x = scan.nextInt();
+int y = scan.nextInt();
+int z = 1;
+int sum = z*x;
+while (sum % 10 != 0 && (sum-y) % 10 != 0){
+	sum += x;
+	z++;
+}
+System.out.println(z);
+}
+}
