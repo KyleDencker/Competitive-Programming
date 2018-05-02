@@ -1,6 +1,6 @@
 # Competitive Programing Solutions
 
-I would like to welcome you to my competitice programming solutions.   I will storing solutions to problems from my adventures in competitive programming.  
+I would like to welcome you to my competitive programming solutions. I will storing solutions to problems from my adventures in competitive programming.  
 
 The sites I am currently using to train are:
 
