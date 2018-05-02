@@ -11,5 +11,7 @@ I also am the director of a high school programming series called the Florida Hi
 
 Hopefully you will find this interesting and useful.
 
+Timber Creek's recommended hackpack (list of common algorithm implementations) is avaiable [here](https://github.com/brettfazio/Hackpack)
+
 Kyle Dencker
 @C4Cheats
