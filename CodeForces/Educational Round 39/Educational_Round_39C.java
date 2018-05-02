@@ -16,7 +16,7 @@ public class Educational_Round_39C {
 		}
 		if(count==26)System.out.println(sb.toString());		//If count is 26, then we have looped through the whole alphabet
 		else System.out.println("-1");
-		scan.close();
+		scan.close();						//Close resource leak
 	}
 
 }
