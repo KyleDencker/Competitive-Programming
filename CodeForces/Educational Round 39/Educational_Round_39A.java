@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+/*
+ * Enrique Rodriguez
+ */
 public class Educational_Round_39A {
 
 	public static void main(String[] args) {
