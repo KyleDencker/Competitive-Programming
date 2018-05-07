@@ -2,7 +2,7 @@ import java.util.*;
 /*
  * @Lior on Codeforces
  */
-public class C479 {
+public class R479C {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
